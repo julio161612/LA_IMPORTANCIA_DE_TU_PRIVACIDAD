@@ -118,3 +118,4 @@ A continuación se muestran las capturas (ficheros tal cual en `capturas/`).
 <p align="center"><img src="./capturas/6%2Ctmb%20me%20redirige%20a%20ytb.png" alt="6 - Redirección Tor" /><br><em>Figura 6 — 6 - Redirección Tor</em></p>
 <p align="center"><img src="./capturas/7%2C%20enruta%20mi%20ip%20y%20me%20pone%20otra.png" alt="7 - IP distinta (nodo Tor)" /><br><em>Figura 7 — 7 - IP distinta (nodo Tor)</em></p>
 <p align="center"><img src="./capturas/8%2C%20lo%20vuelvo%20a%20hacer%20y%20me%20da%20otra%20ip.png" alt="8 - Otra IP distinta (nodo Tor)" /><br><em>Figura 8 — 8 - Otra IP distinta (nodo Tor)</em></p>
+
