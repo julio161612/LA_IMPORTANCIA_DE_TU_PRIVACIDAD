@@ -1,15 +1,19 @@
 # 🔒 LA IMPORTANCIA DE TU PRIVACIDAD
 
-> 🛡️ Repositorio educativo sobre la importancia de proteger tu privacidad en Internet, con demostraciones seguras y buenas prácticas.
+> Proyecto educativo realizado en un laboratorio controlado.  
+> Todas las pruebas se hacen con mi propia IP anonimizada, con el objetivo de **mostrar cómo se filtra información en Internet y cómo protegerse**.
 
 ---
 
-## 🗂️ Índice
+## 🗂️ Estructura general
 
-- [🔐 Importancia de la privacidad](./importancia_privacidad/README.md)  
-- [⚠️ El peligro de exponer tu IP](./peligro_ip/README.md)  
-- [🛡️ Cómo protegerte: Tor, VPNs y buenas prácticas](./proteccion/README.md)  
-- [💻 Demo segura y ética](./demo/README.md)  
-- [🧩 Instalación de Tor Browser](./instalacion_tor/README.md)  
-- [📊 Cómo interpretar los resultados y actuar responsablemente](./interpretacion/README.md)  
-- [⚖️ Aviso legal y ética](./aviso_legal/README.md)
+1️⃣ [**Importancia de tu privacidad y consejos**](./1_Importancia_de_tu_privacidad_y_consejos/README.md)  
+2️⃣ [**Cómo obtienen tu IP**](./2_Como_obtienen_tu_IP/README.md)  
+3️⃣ [**Técnicas OSINT**](./3_Tecnicas_OSINT/README.md)
+
+---
+
+⚠️ **Aviso ético y legal**  
+El contenido se ofrece únicamente con fines educativos y de concienciación.  
+No se promueve ni apoya el uso indebido de herramientas o técnicas.  
+Siempre se debe contar con el consentimiento de las partes implicadas.
