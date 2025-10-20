@@ -57,3 +57,15 @@ Estas técnicas deben emplearse solo:
     Con consentimiento explícito.
 
     Para mejorar la seguridad y privacidad, no para invadir la de otros.
+
+### 📸 Capturas (Sección 3 — Técnicas OSINT)
+
+<!-- Imágenes: 9..11 -->
+![GeoRecon puertos abiertos](<./capturas/9, con la opcion -n de geo recon=p.abiertos.png>)  
+*Figura: 9 — Resultado de geo-recon con opción -n (puertos abiertos).*
+
+![Datos sacados con GeoRecon](<./capturas/10, datos sacados con geo recon.png>)  
+*Figura: 10 — Datos públicos recogidos por geo-recon (IP anonimizada).*
+
+![IP del Tor](<./capturas/11, ip del thor.png>)  
+*Figura: 11 — IP mostrada por geo-recon cuando se usa Tor (IP del nodo).*

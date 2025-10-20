@@ -56,3 +56,32 @@ El navegador Tor o una VPN pueden **romper la relación directa entre IP y ubica
 ⚠️ **Advertencia ética:**  
 Nunca uses IPLogger o técnicas similares para obtener información de terceros.  
 Este ejemplo solo se realiza en un entorno cerrado con fines de concienciación y defensa digital.
+
+### 📸 Capturas (Sección 2 — Cómo obtienen tu IP)
+
+A continuación se muestran las capturas demostrativas (todas anonimizadas en las imágenes del laboratorio):
+
+<!-- Imágenes: 1..8 -->
+![IPLOGGER](<./capturas/1,IPLOGGER.png>)  
+*Figura: 1 — IPLogger: captura de la página que registra IPs (IP oculta).*
+
+![URL IPLogger](<./capturas/2,url de iplogger.png>)  
+*Figura: 2 — URL generada por IPLogger (acortador/registro).*
+
+![YouTube redirige](<./capturas/3,ytb de url.png>)  
+*Figura: 3 — Redirección a YouTube tras registro.*
+
+![Saco mi IP](<./capturas/4,saco mi ip.png>)  
+*Figura: 4 — Captura mostrando la IP registrada (IP modificada por privacidad).*
+
+![Navegador Tor navegación](<./capturas/5, nav thor.png>)  
+*Figura: 5 — Navegador Tor en uso (navegación por la red Tor).*
+
+![Me redirige a YTB](<./capturas/6,tmb me redirige a ytb.png>)  
+*Figura: 6 — Otra captura de la redirección a YouTube.*
+
+![Enruta mi IP y pone otra](<./capturas/7, enruta mi ip y me pone otra.png>)  
+*Figura: 7 — La IP registrada cambia (nodo intermedio).*
+
+![Lo vuelvo a hacer y me da otra IP](<./capturas/8, lo vuelvo a hacer y me da otra ip.png>)  
+*Figura: 8 — Segunda ejecución: IP distinta (nodo distinto).*
