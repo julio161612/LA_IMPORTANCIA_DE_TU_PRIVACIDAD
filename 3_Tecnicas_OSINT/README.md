@@ -14,73 +14,30 @@ git clone https://github.com/thewhiteh4t/geo-recon.git
 cd geo-recon
 pip install -r requirements.txt
 
-🚀 Uso básico
-
-python3 geo-recon.py -t 8.8.8.8
-
-El comando anterior obtiene información pública sobre la IP:
-
-    País y ciudad aproximados.
-
-    ISP (proveedor de Internet).
-
-    Coordenadas aproximadas.
-
-    Posibles puertos abiertos (si la IP pertenece a un host público).
-
-🔎 ¿Qué puede hacer geo-recon?
-
-    Consultar APIs públicas de geolocalización.
-
-    Agregar datos de múltiples fuentes.
-
-    Mostrar información útil en auditorías o análisis defensivos.
-
-    Comprender qué exposición puede tener una IP pública.
-
-🧠 Ejemplo educativo (laboratorio propio)
-
-Al ejecutar geo-recon sobre mi IP controlada, obtuve:
-
-    ISP local.
-
-    Ciudad aproximada (difusa, no exacta).
-
-    Sin puertos abiertos, ya que mi router bloquea el acceso externo.
-
+📸 Capturas del laboratorio (Sección 3)
+<p align="center"> <img src="./capturas_visible/9_geo_recon_n_p_abiertos.png" alt="9 - geo-recon -n" width="780"/><br> <em>Figura 9 — Ejecución de geo-recon con opción -n (puertos abiertos).</em> </p> <p align="center"> <img src="./capturas_visible/10_datos_geo_recon.png" alt="10 - datos geo-recon" width="780"/><br> <em>Figura 10 — Datos públicos recogidos por geo-recon (IP anonimizada).</em> </p> <p align="center"> <img src="./capturas_visible/11_ip_del_tor.png" alt="11 - IP del Tor" width="780"/><br> <em>Figura 11 — IP mostrada por geo-recon al analizar la IP de salida de Tor.</em> </p>
 ⚖️ Uso ético y legal
 
-Estas técnicas deben emplearse solo:
-
-    En sistemas propios o de laboratorio.
-
-    Con consentimiento explícito.
-
-    Para mejorar la seguridad y privacidad, no para invadir la de otros.
-
-### 📸 Capturas (Sección 3 — Técnicas OSINT)
-
-<!-- Imágenes: 9..11 -->
-![GeoRecon puertos abiertos](<./capturas/9, con la opcion -n de geo recon=p.abiertos.png>)  
-*Figura: 9 — Resultado de geo-recon con opción -n (puertos abiertos).*
-
-![Datos sacados con GeoRecon](<./capturas/10, datos sacados con geo recon.png>)  
-*Figura: 10 — Datos públicos recogidos por geo-recon (IP anonimizada).*
-
-![IP del Tor](<./capturas/11, ip del thor.png>)  
-*Figura: 11 — IP mostrada por geo-recon cuando se usa Tor (IP del nodo).*
+Estas técnicas deben emplearse solo en entornos propios o con permiso explícito; su finalidad es educativa.
 
 ---
-
 ## 📸 Capturas del laboratorio — Sección 3
+A continuación se muestran las capturas (ficheros tal cual en `capturas/`).
 
-Las siguientes capturas muestran ejemplos prácticos del uso de **geo-recon** en el laboratorio, aplicadas sobre mi propia IP (ocultada).
+<p align="center">
+  <img src="./capturas/-" alt="9 - geo-recon -n (puertos abiertos)" />
+  <br>
+  <em>Figura 9 — 9 - geo-recon -n (puertos abiertos)</em>
+</p>
 
-![9 - GeoRecon opción -n](<./capturas/9, con la opcion -n de geo recon=p.abiertos.png>)  
-*Figura 9 — Ejecución de geo-recon con opción `-n` para mostrar puertos abiertos.*
+<p align="center">
+  <img src="./capturas/-" alt="10 - Datos extraídos con geo-recon" />
+  <br>
+  <em>Figura 10 — 10 - Datos extraídos con geo-recon</em>
+</p>
 
-![10 - Datos sacados con GeoRecon](<./capturas/10, datos sacados con geo recon.png>)  
-*Figura 10 — Resultados de geolocalización y datos públicos de la IP.*
-
-![11 - IP del Tor](<./capturas/11, ip del thor.png>)  
-*Figura 11 — IP mostrada por geo-recon al analizar la IP de salida de Tor.*
+<p align="center">
+  <img src="./capturas/-" alt="11 - IP del nodo Tor" />
+  <br>
+  <em>Figura 11 — 11 - IP del nodo Tor</em>
+</p>
