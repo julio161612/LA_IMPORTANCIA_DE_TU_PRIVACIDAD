@@ -28,3 +28,9 @@ Estas técnicas deben emplearse solo en entornos propios o con permiso explícit
   <br>
   <em>Figura 13 — Nueva captura 2.1 (detalle adicional del laboratorio)</em>
 </p>
+
+![Figura 12](./capturas/1.1.jpeg)
+Figura 12 — Nueva captura 1.1 (detalle adicional del laboratorio)
+
+![Figura 13](./capturas/2.1.jpeg)
+Figura 13 — Nueva captura 2.1 (detalle adicional del laboratorio)
