@@ -69,3 +69,18 @@ Estas técnicas deben emplearse solo:
 
 ![IP del Tor](<./capturas/11, ip del thor.png>)  
 *Figura: 11 — IP mostrada por geo-recon cuando se usa Tor (IP del nodo).*
+
+---
+
+## 📸 Capturas del laboratorio — Sección 3
+
+Las siguientes capturas muestran ejemplos prácticos del uso de **geo-recon** en el laboratorio, aplicadas sobre mi propia IP (ocultada).
+
+![9 - GeoRecon opción -n](<./capturas/9, con la opcion -n de geo recon=p.abiertos.png>)  
+*Figura 9 — Ejecución de geo-recon con opción `-n` para mostrar puertos abiertos.*
+
+![10 - Datos sacados con GeoRecon](<./capturas/10, datos sacados con geo recon.png>)  
+*Figura 10 — Resultados de geolocalización y datos públicos de la IP.*
+
+![11 - IP del Tor](<./capturas/11, ip del thor.png>)  
+*Figura 11 — IP mostrada por geo-recon al analizar la IP de salida de Tor.*

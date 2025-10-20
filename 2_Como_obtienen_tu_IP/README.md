@@ -85,3 +85,33 @@ A continuación se muestran las capturas demostrativas (todas anonimizadas en la
 
 ![Lo vuelvo a hacer y me da otra IP](<./capturas/8, lo vuelvo a hacer y me da otra ip.png>)  
 *Figura: 8 — Segunda ejecución: IP distinta (nodo distinto).*
+
+---
+
+## 📸 Capturas del laboratorio — Sección 2
+
+A continuación se muestran las capturas del proceso realizado en el laboratorio personal (todas las IPs han sido ocultadas o modificadas).
+
+![1 - IPLogger principal](<./capturas/1,IPLOGGER.png>)  
+*Figura 1 — Página principal de IPLogger usada en el laboratorio.*
+
+![2 - URL generada por IPLogger](<./capturas/2,url de iplogger.png>)  
+*Figura 2 — URL creada que redirige a YouTube tras registrar la IP.*
+
+![3 - Redirección a YouTube](<./capturas/3,ytb de url.png>)  
+*Figura 3 — Comprobación de la redirección legítima a YouTube.*
+
+![4 - Obtención de IP](<./capturas/4,saco mi ip.png>)  
+*Figura 4 — Resultado: IP registrada por IPLogger (oculta).*
+
+![5 - Navegador Tor](<./capturas/5, nav thor.png>)  
+*Figura 5 — Uso del navegador Tor para acceder al mismo enlace.*
+
+![6 - Redirección Tor](<./capturas/6,tmb me redirige a ytb.png>)  
+*Figura 6 — Redirección a YouTube, idéntica pero sin exponer la IP real.*
+
+![7 - IP diferente con Tor](<./capturas/7, enruta mi ip y me pone otra.png>)  
+*Figura 7 — IPLogger detecta otra IP (nodo de salida de Tor).*
+
+![8 - Nueva IP diferente](<./capturas/8, lo vuelvo a hacer y me da otra ip.png>)  
+*Figura 8 — Segundo intento: Tor usa otro nodo y por tanto otra IP.*
