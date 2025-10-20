@@ -41,3 +41,7 @@ A continuación se muestran las capturas (ficheros tal cual en `capturas/`).
   <br>
   <em>Figura 11 — 11 - IP del nodo Tor</em>
 </p>
+## 📸 Capturas del laboratorio — Sección 3
+<p align="center"><img src="./capturas/9%2C%20con%20la%20opcion%20-n%20de%20geo%20recon%3Dp.abiertos.png" alt="9 - geo-recon -n (puertos abiertos)" /><br><em>Figura 9 — 9 - geo-recon -n (puertos abiertos)</em></p>
+<p align="center"><img src="./capturas/10%2C%20datos%20sacados%20con%20geo%20recon.png" alt="10 - Datos extraídos con geo-recon" /><br><em>Figura 10 — 10 - Datos extraídos con geo-recon</em></p>
+<p align="center"><img src="./capturas/11%2C%20ip%20del%20thor.png" alt="11 - IP del nodo Tor" /><br><em>Figura 11 — 11 - IP del nodo Tor</em></p>
