@@ -1,19 +1,21 @@
+<p align="center">
+  <img src="./tor.jpg" alt="Portada del proyecto - Tor y Privacidad" width="720"/>
+</p>
+
 # 🔒 LA IMPORTANCIA DE TU PRIVACIDAD
 
-> Proyecto educativo realizado en un laboratorio controlado.  
-> Todas las pruebas se hacen con mi propia IP anonimizada, con el objetivo de **mostrar cómo se filtra información en Internet y cómo protegerse**.
+> 🛡️ Repositorio educativo sobre la importancia de proteger tu privacidad en Internet, con demostraciones seguras y buenas prácticas.
 
 ---
 
-## 🗂️ Estructura general
+## 🗂️ Índice
 
-1️⃣ [**Importancia de tu privacidad y consejos**](./1_Importancia_de_tu_privacidad_y_consejos/README.md)  
-2️⃣ [**Cómo obtienen tu IP**](./2_Como_obtienen_tu_IP/README.md)  
-3️⃣ [**Técnicas OSINT**](./3_Tecnicas_OSINT/README.md)
+- [🔐 Importancia de la privacidad y consejos](./1_Importancia_de_tu_privacidad_y_consejos/README.md)  
+- [🌍 Cómo obtienen tu IP](./2_Como_obtienen_tu_IP/README.md)  
+- [🧩 Técnicas OSINT](./3_Tecnicas_OSINT/README.md)
 
 ---
 
-⚠️ **Aviso ético y legal**  
-El contenido se ofrece únicamente con fines educativos y de concienciación.  
-No se promueve ni apoya el uso indebido de herramientas o técnicas.  
-Siempre se debe contar con el consentimiento de las partes implicadas.
+## ⚖️ Uso responsable
+Este repositorio se desarrolla en un entorno educativo y controlado, usando **mi propia IP y datos anonimizados**.  
+Todo el contenido tiene fines didácticos y éticos para promover la seguridad digital.
